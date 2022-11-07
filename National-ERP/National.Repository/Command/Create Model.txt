@@ -1,0 +1,5 @@
+﻿--Create Model if no any model present
+Scaffold-DbContext "Server=localhost;Port=5432;Database=NationalDB;User Id=postgres;Password=sa123;" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir Entity
+
+--use for existing models and Db Context
+Scaffold-DbContext "Server=localhost;Port=5432;Database=NationalDB;User Id=postgres;Password=sa123;" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir Entity -Context "NationalContext" -f

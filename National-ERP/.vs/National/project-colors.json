@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3cf1d47a-49a6-436a-814c-a8b93abe87c6": {
+      "ProjectGuid": "3cf1d47a-49a6-436a-814c-a8b93abe87c6",
+      "DisplayName": "National.WebApi",
+      "ColorIndex": 0
+    },
+    "d713bf84-025f-46db-88b4-263edf0a78c7": {
+      "ProjectGuid": "d713bf84-025f-46db-88b4-263edf0a78c7",
+      "DisplayName": "National.Services",
+      "ColorIndex": 1
+    },
+    "a2bb0d9a-63f2-4147-a802-1744bec5bda8": {
+      "ProjectGuid": "a2bb0d9a-63f2-4147-a802-1744bec5bda8",
+      "DisplayName": "National.Domain.Logic",
+      "ColorIndex": 2
+    },
+    "8e108369-23fe-4198-9650-3aa4325a1e1e": {
+      "ProjectGuid": "8e108369-23fe-4198-9650-3aa4325a1e1e",
+      "DisplayName": "National.Repository",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4c0df297-c643-4950-8a14-0398bfc60b22": {
+      "ProjectGuid": "4c0df297-c643-4950-8a14-0398bfc60b22",
+      "DisplayName": "National.UnitTest",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

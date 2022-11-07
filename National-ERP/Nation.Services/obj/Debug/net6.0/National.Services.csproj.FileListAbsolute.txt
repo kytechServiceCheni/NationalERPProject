@@ -1,0 +1,17 @@
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.csproj.AssemblyReference.cache
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.AssemblyInfoInputs.cache
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.AssemblyInfo.cs
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\National.Services.deps.json
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\National.Services.dll
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\ref\National.Services.dll
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\National.Services.pdb
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\National.Domain.Logic.dll
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\National.Repository.dll
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\National.Domain.Logic.pdb
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\bin\Debug\net6.0\National.Repository.pdb
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.csproj.CopyComplete
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.dll
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\ref\National.Services.dll
+C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\Nation.Services\obj\Debug\net6.0\National.Services.pdb

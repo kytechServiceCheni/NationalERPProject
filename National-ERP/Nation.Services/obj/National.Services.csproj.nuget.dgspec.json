@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\Nation.Services\\National.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\Nation.Services\\National.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\Nation.Services\\National.Services.csproj",
+        "projectName": "National.Services",
+        "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\Nation.Services\\National.Services.csproj",
+        "packagesPath": "C:\\Users\\Dhananjay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\Nation.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dhananjay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Domain.Logic\\National.Domain.Logic.csproj": {
+                "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Domain.Logic\\National.Domain.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Domain.Logic\\National.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Domain.Logic\\National.Domain.Logic.csproj",
+        "projectName": "National.Domain.Logic",
+        "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Domain.Logic\\National.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\Dhananjay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dhananjay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj": {
+                "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.IdentityModel.Logging": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj",
+        "projectName": "National.Repository",
+        "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj",
+        "packagesPath": "C:\\Users\\Dhananjay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dhananjay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
