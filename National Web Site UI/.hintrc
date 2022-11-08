@@ -1,0 +1,26 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "meta-viewport": "off",
+    "axe/name-role-value": [
+      "default",
+      {
+        "link-name": "off"
+      }
+    ],
+    "disown-opener": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-webkit-mask-image",
+          "-ms-filter",
+          "-moz-backface-visibility",
+          "-ms-backface-visibility"
+        ]
+      }
+    ]
+  }
+}
