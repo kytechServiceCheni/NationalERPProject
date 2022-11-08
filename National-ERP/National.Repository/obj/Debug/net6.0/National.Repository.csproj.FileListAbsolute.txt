@@ -26,3 +26,17 @@ C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\National.Repository\obj\D
 C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.pdb
 C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.genruntimeconfig.cache
 C:\Users\Dhananjay\Project\NationalERPDEV\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.csproj.AssemblyReference.cache
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\bin\Debug\net6.0\National.Repository.deps.json
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\bin\Debug\net6.0\National.Repository.runtimeconfig.json
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\bin\Debug\net6.0\National.Repository.dll
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\bin\Debug\net6.0\ref\National.Repository.dll
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\bin\Debug\net6.0\National.Repository.pdb
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.AssemblyInfoInputs.cache
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.AssemblyInfo.cs
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.dll
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\ref\National.Repository.dll
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.pdb
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.genruntimeconfig.cache
+C:\Users\Dhananjay\Project\NationalERPProject\National-ERP\National.Repository\obj\Debug\net6.0\National.Repository.csproj.AssemblyReference.cache

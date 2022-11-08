@@ -6202,8 +6202,8 @@
     },
     "National.Services/1.0.0": {
       "type": "project",
-      "path": "../Nation.Services/National.Services.csproj",
-      "msbuildProject": "../Nation.Services/National.Services.csproj"
+      "path": "../National.Services/National.Services.csproj",
+      "msbuildProject": "../National.Services/National.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6223,11 +6223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.WebApi\\National.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.WebApi\\National.WebApi.csproj",
       "projectName": "National.WebApi",
-      "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.WebApi\\National.WebApi.csproj",
+      "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.WebApi\\National.WebApi.csproj",
       "packagesPath": "C:\\Users\\Dhananjay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dhananjay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6244,8 +6244,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\Nation.Services\\National.Services.csproj": {
-              "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\Nation.Services\\National.Services.csproj"
+            "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.Services\\National.Services.csproj": {
+              "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.Services\\National.Services.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj": {}
+    "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.Repository\\National.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj": {
+    "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.Repository\\National.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.Repository\\National.Repository.csproj",
         "projectName": "National.Repository",
-        "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\National.Repository.csproj",
+        "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.Repository\\National.Repository.csproj",
         "packagesPath": "C:\\Users\\Dhananjay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dhananjay\\AppData\\Roaming\\NuGet\\NuGet.Config",

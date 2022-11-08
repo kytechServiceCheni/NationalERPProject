@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.UnitTest\\National.UnitTest.csproj": {}
+    "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.UnitTest\\National.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.UnitTest\\National.UnitTest.csproj": {
+    "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.UnitTest\\National.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.UnitTest\\National.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.UnitTest\\National.UnitTest.csproj",
         "projectName": "National.UnitTest",
-        "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.UnitTest\\National.UnitTest.csproj",
+        "projectPath": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.UnitTest\\National.UnitTest.csproj",
         "packagesPath": "C:\\Users\\Dhananjay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPDEV\\National-ERP\\National.UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Dhananjay\\Project\\NationalERPProject\\National-ERP\\National.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dhananjay\\AppData\\Roaming\\NuGet\\NuGet.Config",

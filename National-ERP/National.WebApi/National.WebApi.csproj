@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Nation.Services\National.Services.csproj" />
+    <ProjectReference Include="..\National.Services\National.Services.csproj" />
   </ItemGroup>
 
 </Project>
